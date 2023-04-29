@@ -1,2 +1,2 @@
 # Stock-predictor
-To forecast stock predictions of a famous companies
+To forecast stock predictions of a few famous companies
